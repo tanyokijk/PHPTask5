@@ -1,0 +1,17 @@
+
+ƒ	php:S1131„"@Remove the useless trailing whitespaces at the end of this line.(Ç¥ŞÃ8¦¨Üæ1J$2a2fcfeb-67bc-49e5-967b-a9f943b11fc0
+‘php:S103i"KSplit this 129 characters long line (which is greater than 120 authorized).(´¨ÂÎşÿÿÿÿ8¦¨Üæ1J$5d93e4ba-d41b-4fdf-a03a-3269612a010f
+Œphp:S103€"KSplit this 129 characters long line (which is greater than 120 authorized).(Ğ£õg8¦¨Üæ1J$de11fb93-dcc8-4a7e-8230-6ccf3924b4e9
+’php:S103À"KSplit this 135 characters long line (which is greater than 120 authorized).(“‰áïùÿÿÿÿ8ŸÙØÜæ1J$4a2cf4e3-6b63-4d9c-8063-d8c58b818b5d
+Ÿphp:S100>"_Rename function "InsertIntoUserOrCategory" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ö¾Í 8§¨Üæ1J$109e0fa7-82a4-45c2-a287-8b0784413ec2
+php:S100F"XRename function "InsertIntoProduct" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ê¾ÅËøÿÿÿÿ8§¨Üæ1J$2b49301e-672a-44a8-8f88-1bb3ae6def42
+–php:S100P"URename function "InsertIntoCart" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(Ïßö°8§¨Üæ1J$549b6226-f63b-4716-8d1e-f7b07ea9e5bb
+“php:S100Y"SRename function "ShowAllUsers" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(®ºç=8§¨Üæ1J$ec02a81b-6164-496e-9e18-529e1faf9d30
+šphp:S100g"YRename function "ShowAllItemsInCart" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(•‡Ì8§¨Üæ1J$837e1bc2-91a9-47fd-8a1f-42b8d914deda
+php:S100~"]Rename function "ShowAllItemsInCartUser" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ÃÏ¯J8§¨Üæ1J$979b5994-8caa-4da5-a6a4-d11ad5d8513c
+¬php:S100—"eRename function "GetCategoriesAddedToCartByUser" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(û¾¯—şÿÿÿÿ8§¨Üæ1J$879e7826-ebd6-41c8-b1c8-5f78db18129a
+¡php:S100«"_Rename function "GetUsersWhoBoughtProduct" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(éÄÖà8ùü˜Üæ1J$ee1b12fc-4bf8-4d8f-b0b5-8acff013330c
+¨php:S100¾"aRename function "GetCategoriesNotInUserCart" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(¤ÙõØşÿÿÿÿ8¶ÈÜæ1J$de8312f9-2a8f-41b0-881e-4f565d517838
+}	php:S6437"6Revoke and change this password, as it is compromised.(ĞıâÊùÿÿÿÿ8§¨Üæ1J$1e0a85fd-2f2b-4778-9838-5dca9c61472a
+`php:S113"'Add a new line at the end of this file.8”º‘Üæ1J$9115d14b-737e-4b35-a9c0-9d4e0ec268bc
+‰	php:S1192T"HDefine a constant instead of duplicating this literal ":userId" 4 times.(şÉn8¨¨Üæ1J$d94a11ba-1213-4c77-b8aa-a51913c20676
